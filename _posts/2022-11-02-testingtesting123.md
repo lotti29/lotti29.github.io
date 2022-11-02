@@ -10,4 +10,4 @@ _This should have italics_
 
 Below should be a picture of a duck:
 
-![Ducky](https://en.wikipedia.org/wiki/Duck#/media/File:Bucephala-albeola-010.jpg)
+![Ducky](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Parrulo_-Muscovy_duckling.jpg/1280px-Parrulo_-Muscovy_duckling.jpg)
