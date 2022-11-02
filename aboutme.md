@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: WE THANK YOU FOR YOUR PATIENCE WHILE THIS BLOG IS BEING BUILT
 ---
+Hi, I'm Charlotte, and I'm putting together this little blog as a side project while I'm jobhunting. I hope to post small notes here about what I've been reading or working on. 
 
-My name is Inigo Montoya. I have the following qualities:
+About me:
+- Recent Psychological and Behavioural Sciences graduate from Cambridge University
+- Favourite psychology topics: Applied behavioural science, decision making, behavioural economics, Open Science
+- Current projects: Learning R, scientific writing, *this website\*
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
