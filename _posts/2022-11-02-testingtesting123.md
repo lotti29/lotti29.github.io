@@ -10,4 +10,4 @@ _This should have italics_
 
 Below should be a picture of a duck:
 
-![Ducky](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.countryliving.com%2Fuk%2Fwildlife%2Ffarming%2Fhow-to%2Fa232%2Fkeeping-ducks%2F&psig=AOvVaw26IvyjYmgT5_abspvTlZgx&ust=1667486487965000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjOhrDdj_sCFQAAAAAdAAAAABAE)
+![Ducky](https://en.wikipedia.org/wiki/Duck#/media/File:Bucephala-albeola-010.jpg)
