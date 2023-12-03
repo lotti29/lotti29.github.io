@@ -30,3 +30,7 @@ Don't Trust Your Gut - Seth Stephens-Davidowitz - Another twist on the self-help
 <!-- To research: illusion of explanatory depth in climate change. -->
 <!-- Reframe the question: if habits don't change, we have a 10% chance of averting climate change vs if habits don't change, we have a 90% chance of causing climate change -->
 
+Coding Resources
+
+https://readwrite.com/understanding-github-a-journey-for-beginners-part-1/
+
