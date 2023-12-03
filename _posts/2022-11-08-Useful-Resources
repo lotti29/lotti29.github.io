@@ -1,16 +1,32 @@
 --- 
 title: Useful Psychology Resources (Beta)
-subtitle: A collection of handy pages and websites I've found (will be updated continuously)
+subtitle: A collection of handy pages and websites I've found 
 ---
 
-This post is just about the things I'm reading or using at the moment that I've found useful. It will be updated continuously as I discover more things. This post will also be a handy way to practice building easy-to-read lists in Markdown. 
+This post is just about the things I'm reading or using at the moment that I've found useful. It will be updated continuously as I discover more. This post will also be a handy way to practice building easy-to-read lists in Markdown. 
 
-After leaving Uni I've feel my writing skills have weakened somewhat, so I've decided to get into the habit of writing short summaries of what I've been reading, even if it's just a few sentences. I'm hoping this blog will help motivate me to keep the habit up. I might even be motivated to post my own thoughts on behavioural science at some point - who knows! 
+After leaving Uni I've feel my writing skills have weakened somewhat, so I've decided to get into the habit of writing short summaries of what I've been reading, even if it's just a few sentences. I'm hoping this blog will help motivate me to keep the habit up.  
 
 
 Cool Psychology Websites
-![Behavioural Scientist.org](https://behavioralscientist.org/) - A handy meta-resource for a wide range of behavioural science topics. Not only are its articles cutting edge and well-researched, it is really well organised, allowing you to dive straight into the behavioural science of a particular topic. I definitely plan to explore its ![Writing Resources](https://behavioralscientist.org/writing-resources/) page to give my own writing a bit of polish.
+![Behavioural Scientist.org](https://behavioralscientist.org/) - A handy meta-resource for a wide range of behavioural science topics. Not only are its articles cutting edge and well-researched, it is very organised, allowing you to dive straight into the behavioural science of a particular topic. I definitely plan to explore its ![Writing Resources](https://behavioralscientist.org/writing-resources/) page to give my own writing a bit of polish.
 
 ![Human Factors 101](https://humanfactors101.com/) - As the daughter of a chemical engineer, I've been fascinated by human factors for a long time, but so far my reading on the topic has mainly been through an engineering lens. Martin Anderson's website has let me explore the topic more directly, putting HF right in the centre of discussion. He explores the implementation of human factors (both good and bad) in a huge variety of contexts, and he is an expert at taking lessons from one scenario and applying them to another. For example, I have recently enjoyed his article ![Nimrod XV230: Parallels with healthcare](https://humanfactors101.com/2016/07/24/nimrod-healthcare/), which manages to show what hospitals can learn from a military engineering disaster. 
 
 ![Growth Design](https://growth.design/) Formerly Dark Patterns, I first learnt about Growth Design on a behavioural science consulting course. (TBC)
+
+Books 
+
+Misbehaving - Richard Thaler - Where it all started for me. Misbehaving recommended to me over Thinking, Fast and Slow, and while I love the latter I am very glad I didn't read it first! Thaler's perspective as an economist and academic is invaluable for someone interested in using behavioural insights in the real world. You do not need a strong foundation in economics or psychology to make sense of the book, as he explains the fundamentals of each in a way that is clear without being overly detailed. In addition, by framing his book as a semi-autobiography, you obtain a chronological view of the development of behavioural economics and the challenges the discipline has faced along the way. 
+
+Thinking, Fast and Slow - Daniel Kahneman - Where it all actually started! At least, when behavioural science came into mainstream view. When I finally read the book, I was quite surprised by its popularity, as although it is a fascinating and well-written book it is also very academic and thorough. In many ways it is the bible of behavioural science: foundational, dense and occasionally outdated, but still extremely influential. An overview of TFAS's issues with evidence can be found ![here](https://retractionwatch.com/2017/02/20/placed-much-faith-underpowered-studies-nobel-prize-winner-admits-mistakes/) - it is worthwhile noting that it was published in 2011, right before the replication crisis in psychology precipitated. Although I currently am not confident enough in my statistical ability to critically examine the report, Kahneman's comments on his own work illustrate the book's issues plainly. Though the specifics of some of the evidence cited in the book may be shaky, I think the book is still groundbreaking for producing many of the theories behavioural science uses today, such as bounded rationality and loss aversion (the latter of which I have since helped replicate in a global experiment - so there's definitely some evidence for that!)
+
+Three of these books were Christmas presents from my family that my dad had spotted on Behavioural Scientist's Books to Watch list. 
+
+Thinking 101 - Prof Woo-Kyoung Ahn - In many ways a condensation of the insights from the books above, converted into a self-help book. While most of the core principles in the book will be familiar to behavioural scientists, the straightforward presentation of the book and mixture of anecdotal stories and real-world studies makes the book very refreshing. As someone who is currently job-seeking, I particularly enjoyed her perspectives on the hiring process.
+
+Don't Trust Your Gut - Seth Stephens-Davidowitz - Another twist on the self-help genre, this book aims to use Big Data studies to help the reader make better choices in life. Again, this book is broken down into different chapters based on what the reader is trying to improve, such as dating prospects, job hunting or just general happiness. My agreement with the author's conclusions greatly varied depending on the method of inference used.
+
+<!-- To research: illusion of explanatory depth in climate change. -->
+<!-- Reframe the question: if habits don't change, we have a 10% chance of averting climate change vs if habits don't change, we have a 90% chance of causing climate change -->
+
