@@ -19,9 +19,9 @@ author: Charlotte Rutherford
 ###############################################
 
 navbar-links:
-  About Me: 
-    - Profile: "aboutme"
-    - CV: "CV"
+  About Me: "aboutme"
+    # - Profile: "aboutme"
+    # - CV: "CV"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
