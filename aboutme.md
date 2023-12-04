@@ -12,6 +12,6 @@ About me:
 - Research Interests: public understanding of science, climate change behaviour, applied behavioural science/nudges
 - Current projects: Learning R, data visualisation, science communication, programming this website!
 
-Resources I've found useful: https://lotti29.github.io/2022-11-08-Useful-Resources/
-My CV (including publications): https://lotti29.github.io/CV/
+Resources I've found useful: (https://lotti29.github.io/2022-11-08-Useful-Resources/)
+My CV (including publications): (https://lotti29.github.io/CV/)
 
