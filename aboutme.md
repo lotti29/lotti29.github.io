@@ -1,13 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: WE THANK YOU FOR YOUR PATIENCE WHILE THIS BLOG IS BEING BUILT
+#subtitle: WE THANK YOU FOR YOUR PATIENCE WHILE THIS BLOG IS BEING BUILT
 ---
-Hi, I'm Charlotte, and I'm putting together this little blog as a side project while I'm jobhunting. I hope to post small notes here about what I've been reading or working on. 
+Hi, I'm Charlotte, currently an MRes Experimental Psychology with Data Science student at the University of Manchester. This is a blog to keep all my projects and ideas in one place. I also hope to write articles on current topics within behavioural science, with the aim of making the field accessible to a general audience. 
+
+If you have any comments or ideas about content on this blog, message me on [LinkedIn.](https://www.linkedin.com/in/charlotte104/) 
 
 About me:
-- Recent Psychological and Behavioural Sciences graduate from Cambridge University
-- Favourite psychology topics: Applied behavioural science, decision making, behavioural economics, Open Science
-- Current projects: Learning R, scientific writing, *this website\*
+- Psychological and Behavioural Sciences graduate from Cambridge University
+- Research Interests: public understanding of science, climate change behaviour, applied behavioural science/nudges
+- Current projects: Learning R, data visualisation, science communication, programming this website!
 
+Resources I've found useful: https://lotti29.github.io/2022-11-08-Useful-Resources/
+My CV (including publications): https://lotti29.github.io/CV/
 
