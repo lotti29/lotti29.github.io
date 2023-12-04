@@ -1,7 +1,8 @@
 --- 
 title: Useful Psychology Resources
 subtitle: A collection of handy pages and websites I've found 
-cover-image: /assets/img/bookphoto.jpg
+cover-img: /assets/img/bookphoto.jpg
+tags: [books, websites, resources, behavioural science, human factors, R]
 ---
 
 This is a collection of books and websites that I've found interesting, and I'll update this page as time goes on. This post will also be a handy way to practice building easy-to-read lists in Markdown. 
@@ -10,13 +11,13 @@ After leaving Uni I've feel my writing skills have weakened somewhat, so I've de
 
 
 #### Psychology Websites
-![Behavioural Scientist.org](https://behavioralscientist.org/) - A handy meta-resource for a wide range of behavioural science topics. Not only are its articles cutting edge and well-researched, it is very well organised, allowing you to dive straight into the behavioural science of a particular topic. I also plan to explore its ![Writing Resources](https://behavioralscientist.org/writing-resources/) page to give my own writing a bit of polish.
+**[Behavioural Scientist.org](https://behavioralscientist.org/)** - A handy meta-resource for a wide range of behavioural science topics. Not only are its articles cutting edge and well-researched, it is very well organised, allowing you to dive straight into the behavioural science of a particular topic. I also plan to explore its ![Writing Resources](https://behavioralscientist.org/writing-resources/) page to give my own writing a bit of polish.
 
-![Human Factors 101](https://humanfactors101.com/) - As the daughter of a chemical engineer, I've been fascinated by human factors for a long time, but so far my reading on the topic has mainly been through an engineering lens. Martin Anderson's website has let me explore the topic more directly from an human factors expert. He explores the topic over a huge range of contexts, and is adept at finding applicable lessons in any case study, no matter the field. For example, I have recently enjoyed his article ![Nimrod XV230: Parallels with healthcare](https://humanfactors101.com/2016/07/24/nimrod-healthcare/), which manages to show what hospitals can learn from a military engineering disaster. 
+**[Human Factors 101](https://humanfactors101.com/)** - As the daughter of a chemical engineer, I've been fascinated by human factors for a long time, but so far my reading on the topic has mainly been through an engineering lens. Martin Anderson's website has let me explore the topic more directly from an human factors expert. He explores the topic over a huge range of contexts, and is adept at finding applicable lessons in any case study, no matter the field. For example, I have recently enjoyed his article ![Nimrod XV230: Parallels with healthcare](https://humanfactors101.com/2016/07/24/nimrod-healthcare/), which manages to show what hospitals can learn from a military engineering disaster. 
 
-![Growth Design](https://growth.design/) Formerly Dark Patterns, I first learnt about Growth Design on a behavioural science consulting course. Its interactive presentation and use of real-world case studies makes it an engaging resource for revising applications of behavioural science. It is certainly a more business focused website rather than an academic one, but it is nonetheless a really useful way to learn how behavioural science is used (and misused) in daily life.
+**[Growth Design](https://growth.design/)** - Formerly Dark Patterns, I first learnt about Growth Design on a behavioural science consulting course. Its interactive presentation and use of real-world case studies makes it an engaging resource for revising applications of behavioural science. It is certainly a more business focused website rather than an academic one, but it is nonetheless a really useful way to learn how behavioural science is used (and misused) in daily life.
 
-*![Tim Harford](https://timharford.com/article/) My favourite popular science writer, Tim Harford's blog is the inspiration for this website. Though he is primarily an economist, he also uses insights from behavioural science and human factors to inform his writing. Tim often uses real-life scenarios to provide a grounded backdrop to his articles, such as in his podcast ![Cautionary Tales](https://open.spotify.com/show/2yPlb6ynbhTJbziSIcykQd). He will often discuss wildly different topics within the same episode, such as the La La Land Oscar fiasco and Galileo, leaving you to wonder how they could possibly be related. Yet, by the end, he manages to draw insightful connections between these once-disparate themes, coming to useful conclusions applicable in everyday life. What I particuarly enjoy about his articles is how evidence-based they are: he draws insightful stories out of the data, rather than trying to force the data to fit his stories. His articles have inspired a few future blog posts that I hope to make soon.
+**[Tim Harford](https://timharford.com/article/)** My favourite popular science writer, Tim Harford's blog is the inspiration for this website. Though he is primarily an economist, he also uses insights from behavioural science and human factors to inform his writing. Tim often uses real-life scenarios to provide a grounded backdrop to his articles, such as in his podcast ![Cautionary Tales](https://open.spotify.com/show/2yPlb6ynbhTJbziSIcykQd). He will often discuss wildly different topics within the same episode, such as the La La Land Oscar fiasco and Galileo, leaving you to wonder how they could possibly be related. Yet, by the end, he manages to draw insightful connections between these once-disparate themes, coming to useful conclusions applicable in everyday life. What I particuarly enjoy about his articles is how evidence-based they are: he draws insightful stories out of the data, rather than trying to force the data to fit his stories. His articles have inspired a few future blog posts that I hope to make soon.
 
 #### Books 
 
@@ -33,8 +34,8 @@ The next two books were on Behavioural Scientist's Books to Watch list.
 
 #### Coding Resources
 
-**![Understanding Github](https://readwrite.com/understanding-github-a-journey-for-beginners-part-1/)** This blog requires use of git to function, and dealing with github as a new user was rather daunting. I found this article to be a great introduction to the platform and a useful reference when troubleshooting. I hope to use github for some future projects.
+**[Understanding Github](https://readwrite.com/understanding-github-a-journey-for-beginners-part-1/)** This blog requires use of git to function, and dealing with github as a new user was rather daunting. I found this article to be a great introduction to the platform and a useful reference when troubleshooting. I hope to use github for some future projects.
 
-**![R For Data Science](https://r4ds.had.co.nz/)** - This free online course was the perfect introduction to R in undergrad, covering the full data science pipeline from tidying to visualising. 
+**[R For Data Science](https://r4ds.had.co.nz/)** - This free online course was the perfect introduction to R in undergrad, covering the full data science pipeline from tidying to visualising. 
 
 
