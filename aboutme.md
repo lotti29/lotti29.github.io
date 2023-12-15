@@ -9,7 +9,7 @@ If you have any comments or ideas about content on this blog, message me on [Lin
 
 About me:
 - Psychological and Behavioural Sciences graduate from Cambridge University
-- Research Interests: public understanding of science, climate change behaviour, applied behavioural science/nudges
+- Research Interests: public understanding of science, climate change behaviour, applied behavioural science/nudges, data visualisations
 - Current projects: Learning R, data visualisation, science communication, programming this website!
 
 Resources I've found useful: [https://lotti29.github.io/2022-11-08-Useful-Resources/](https://lotti29.github.io/2022-11-08-Useful-Resources/)
