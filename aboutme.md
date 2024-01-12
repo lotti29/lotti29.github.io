@@ -13,5 +13,5 @@ About me:
 - Current projects: Learning R, data visualisation, science communication, programming this website!
 
 Resources I've found useful: [https://lotti29.github.io/2022-11-08-Useful-Resources/](https://lotti29.github.io/2022-11-08-Useful-Resources/)
-My CV (including publications): [https://lotti29.github.io/CV/](https://lotti29.github.io/CV/)
+My CV (including publications): [https://lotti29.github.io/CV-CRutherford.pdf/](https://lotti29.github.io/CV-CRutherford.pdf/)
 

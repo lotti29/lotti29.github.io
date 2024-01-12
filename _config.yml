@@ -21,7 +21,7 @@ author: Charlotte Rutherford
 navbar-links:
   About Me:
     - Profile: "aboutme"
-    - CV: "CV"
+    - CV: "CV-CRutherford.pdf"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
