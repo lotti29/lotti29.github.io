@@ -13,7 +13,7 @@ Without further ado, here's three articles that have piqued my interest this wee
 
 ### Happy Git with R
 
-After changing computers and carefully porting my projects over, I realised it was probably time I figure out how to use Git and GitHub properly. I am using it to an extent already for this website, but so far I've only used narrow tutorials specific only to the problem at hand. No, if I want to have easy access to my projects across systems (and have accessible) I have to wrangle with the infamous Git. 
+After changing computers and carefully porting my projects over, I realised it was probably time I figure out how to use Git and GitHub properly. I am using it to an extent already for this website, but so far I've only used narrow tutorials specific only to the problem at hand. No, if I want to have easy access to my projects across systems (and have accessible backups) I have to wrangle with the infamous Git. 
 
 Fortunately, [Happy Git With R](https://happygitwithr.com/) has made this process much smoother. It's written informally and with plenty of contingencies ~~if~~ *when* something goes wrong. Most importantly, it's written for R users, and assumes no wider computing knowledge outside of that. Often when figuring out a coding problem I end up going down rabbit holes far outside my comfort zone, so it's nice to have a straightforward tutorial designed around someone with my background. 
 
